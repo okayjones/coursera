@@ -13,6 +13,7 @@ h1 {
 section {
 	border: 1px solid black;
 	background-color: #dadada;
+	margin: 10px;
 }
 
 p {
