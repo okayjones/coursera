@@ -48,10 +48,6 @@ p {
     border: 1px solid white;  
 }
 
-#nav-list {
-    text-align: center;
-}
-
 #nav-list a:hover { /* Nav list on hover */
     border: 0;
     background: #5FA8AB;
