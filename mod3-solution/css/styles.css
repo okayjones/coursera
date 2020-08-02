@@ -21,7 +21,7 @@ h3 { /* Section Names */
 
 
 /*********** NAVIGATION STYLES /***********/
-.navbar-default {
+.navbar {
     background-color: #234357;
     border-radius: 0;
     border: 0;
@@ -33,10 +33,6 @@ h3 { /* Section Names */
     font-weight: 300;
 }
 
-.navbar-collapse {
-    border-top:0;
-    background: #87BEC0;
-}
 
 .navbar-collapse span{
     color: white;
