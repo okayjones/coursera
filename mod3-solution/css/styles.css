@@ -1,0 +1,61 @@
+/*********** BODY STYLES /***********/
+body {
+    color: #2e3532;
+    font-size: 16px;
+}
+h1 { /* Our Menu Title */
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: #284b63;
+    font-weight: 300;
+}
+h3 { /* Section Names */
+    color: #5FA8AB;
+    text-align: center;
+    font-weight: 350; 
+}
+.section p { /* Section Descriptions */
+    padding: 10px;
+}
+
+
+
+/*********** NAVIGATION STYLES /***********/
+.navbar-default {
+    background-color: #234357;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand span { /* Restaurant name */
+    color: #FFFFFF;
+    font-size: 1.8em;
+    font-weight: 300;
+}
+
+.navbar-collapse {
+    border-top:0;
+    background: #87BEC0;
+}
+
+.navbar-collapse span{
+    color: white;
+}
+
+.icon-bar {
+    border: 1px solid white;  
+}
+
+#nav-list {
+    text-align: center;
+}
+
+#nav-list a:hover { /* Nav list on hover */
+    border: 0;
+    background: #5FA8AB;
+    margin: 0;
+} 
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #5FA8AB;
+}
